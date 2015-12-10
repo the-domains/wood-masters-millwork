@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wood Masters Millwork]]></title>
+        <description><![CDATA[Wood Masters Millwork]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 19:39:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Architectural Interiors]]></title>
+            <description><![CDATA[<article><h1>Architectural Interiors</h1><p>Wood Masters MillWork began operation in July of 2014 as the production and installation arm of IMSG Architectural Interiors. Based in Nashville TN, our management team has over 55 years of experience in the industry. With a commitment to integrity, customer service, and providing a quality product with minimal headaches, we want to help make your next project spectacular.</p></article>]]></description>
+            <link>http://wmmwtn.com/</link>
+            <guid isPermaLink="false">68435f69-0cde-49a4-9e32-07529711c2e4</guid>
+            <pubDate>Thu, 10 Dec 2015 19:39:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
