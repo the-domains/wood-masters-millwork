@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wood Masters Millwork]]></title>
         <description><![CDATA[Wood Masters Millwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wood-masters-millwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 23:50:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 00:59:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wood-masters-millwork/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/941aba66-628d-494b-ad47-d6d77399f91b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/wood-masters-millwork/18ff7967-099e-4136-a70f-cde15378b46d/index.html</link>
+            <guid isPermaLink="false">18ff7967-099e-4136-a70f-cde15378b46d</guid>
+            <pubDate>Sat, 12 Dec 2015 00:58:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17216913-4d75-4716-a37e-93129c70826c.jpg">]]></description>
-            <link>undefinedb52432fa-6b28-4925-9ae6-711cbb56bcb3/index.html</link>
+            <link>https://thegrid.ai/wood-masters-millwork/b52432fa-6b28-4925-9ae6-711cbb56bcb3/index.html</link>
             <guid isPermaLink="false">b52432fa-6b28-4925-9ae6-711cbb56bcb3</guid>
             <pubDate>Fri, 11 Dec 2015 23:50:04 GMT</pubDate>
         </item>
