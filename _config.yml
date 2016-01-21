@@ -1,6 +1,6 @@
 name: Wood Masters Millwork
 favicon: null
-layout_spectrum: 0.5308
+layout_spectrum: 0.65644
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#4d8659'
     - '#b8bc97'
     - '#fef1e8'
-  brandStrength: 0.75
+  brandStrength: 0.5625
   lightness: 0.3125
   saturation: 0.625
   rhythmicContrast: 0.75
