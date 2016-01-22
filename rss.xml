@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wood Masters Millwork]]></title>
         <description><![CDATA[Wood Masters Millwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wood-masters-millwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 03:15:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 01:28:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wood-masters-millwork/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Based in Nashville TN, our management team has over 50 years of experience in the millwork industry.  With a commitment to integrity and customer service, our goal is to provide a quality product that meets your schedule with minimal headaches. Allow us to help make your next project spectacular.</p>]]></description>
+            <link>https://thegrid.ai/wood-masters-millwork/c5826518-6cda-40fe-9055-cf82b3bd306c/index.html</link>
+            <guid isPermaLink="false">c5826518-6cda-40fe-9055-cf82b3bd306c</guid>
+            <pubDate>Fri, 22 Jan 2016 01:28:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76feacb8-bfbc-4317-a162-3be9fc18d629.jpg">]]></description>
-            <link>undefined111ad522-d961-4604-8148-86c484a6a3e9/index.html</link>
+            <link>https://thegrid.ai/wood-masters-millwork/111ad522-d961-4604-8148-86c484a6a3e9/index.html</link>
             <guid isPermaLink="false">111ad522-d961-4604-8148-86c484a6a3e9</guid>
             <pubDate>Thu, 21 Jan 2016 03:15:39 GMT</pubDate>
         </item>
